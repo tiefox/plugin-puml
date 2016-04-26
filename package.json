@@ -18,7 +18,8 @@
     },
     "dependencies": {
         "shelljs" : "0.7.0",
-        "tmp": "0.0.28"
+        "tmp": "0.0.28",
+        "datauri": "1.0.4"
     },
     "devDependencies": {
         "gitbook-tester": "1.3.0",
